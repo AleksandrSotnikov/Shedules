@@ -60,6 +60,7 @@ dependencies {
     implementation 'androidx.activity:activity-compose:1.4.0'
     implementation "org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.1"
     implementation 'org.jsoup:jsoup:1.11.3'
+    implementation 'com.google.accompanist:accompanist-flowlayout:0.21.3-beta'
     implementation "org.orbit-mvi:orbit-viewmodel:4.3.0"
     implementation "io.insert-koin:koin-android:3.1.3"
     implementation "io.insert-koin:koin-androidx-compose:3.1.3"

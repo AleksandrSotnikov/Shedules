@@ -5,7 +5,7 @@ import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 
 @Serializable
-data class MainShedules(
+data class MainSchedules(
     @SerialName("results")
     val results: List<Results>
 )
